@@ -19,9 +19,9 @@
 #     - git submodule update --init # use submodules
 
 ## Customize dependencies
-dependencies:
-  pre:
-    - pip install fabric
+# dependencies:
+#   pre:
+#     - pip install fabric
 
   # we automatically cache and restore many dependencies between
   # builds. If you need to, you can add custom paths to cache:
